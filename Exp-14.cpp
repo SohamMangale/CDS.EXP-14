@@ -9,7 +9,7 @@ using namespace std;
 class Uni
 {
 public:
-    string uni = "subham: ";
+    string uni = "SOHAM: ";
     void discipline() 
     {
         cout << "Engineering" << endl;
