@@ -47,7 +47,7 @@ Code Reusability: Allows reuse of existing code.
 Extendability: Facilitates the addition of new features with minimal changes.
 Polymorphism: Supports the creation of more flexible and extensible systems by allowing derived classes to override base class methods.
 ## Codes :
-###1 : Single Inheritance
+### 1 : Single Inheritance
 ~~~
 //soham
 //entc B1
