@@ -249,7 +249,8 @@ int main()
 
 
 ### 2: Multiple Inheritance
-Screenshot 2024-09-13 105847
+![image](https://github.com/user-attachments/assets/4f871129-694c-4081-b4fa-45224bbc4f5c)
+
 
 ### 3: Multilevel Inheritance
 Screenshot 2024-09-13 105911
