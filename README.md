@@ -60,7 +60,7 @@ using namespace std;
 class Uni
 {
 public:
-    string uni = "subham: ";
+    string uni = "SOHAM: ";
     void discipline() 
     {
         cout << "Engineering" << endl;
@@ -245,7 +245,8 @@ int main()
 ~~~
 ## outputs :
 ### 1: Single Inheritance
-Screenshot 2024-09-13 105830
+![image](https://github.com/user-attachments/assets/011d3481-59f2-46d0-b872-d2e9a62000bc)
+
 
 ### 2: Multiple Inheritance
 Screenshot 2024-09-13 105847
