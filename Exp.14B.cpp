@@ -54,7 +54,7 @@ public:
 
 int main() {
     // Create an order for a customer
-    Order myOrder("Food Paradise", "Downtown", "subham", "wrap");
+    Order myOrder("Food Paradise", "Downtown", "SOHAM", "wrap");
 
     // Display restaurant information, menu, and order details
     myOrder.displayInfo();   // From Restaurant class
